@@ -65,6 +65,7 @@
         "multer": "1.4.4",
         "mustache": "4.2.0",
         "node-red-admin": "^3.0.0",
+        "node-red-contrib-chartjs": "file:docker/chartjs/origin/node-red-contrib-chartjs",
         "node-watch": "0.7.3",
         "nopt": "5.0.0",
         "oauth2orize": "1.11.1",
