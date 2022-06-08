@@ -1,8 +1,8 @@
 #!/bin/sh
 
-version="0.0.6"
+version="0.0.1"
 
-docker_repo="ghcr.io/kevin0120/node-red/chartjs-origin"
+docker_repo="ghcr.io/kevin0120/node-red/chartjs-customize-byd"
 
 docker build -t ${docker_repo}:${version} .
 #docker build -t ${docker_repo}:latest .
